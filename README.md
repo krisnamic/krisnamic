@@ -3,19 +3,19 @@
 
 <h1></h1>
 
-<a href="https://www.linkedin.com/in/michael-krisna-cahyadi">
+<a href="https://www.linkedin.com/in/michael-krisna-cahyadi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/krisnamic">
+<a href="https://github.com/krisnamic" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://michael-2026-portfolio.vercel.app">
+<a href="https://michael-2026-portfolio.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:michael.krisnac@gmail.com">
+<a href="mailto:michael.krisnac@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
 </a>
 
@@ -24,7 +24,7 @@
 </div>
 <p></p>
 
-<h1 align="center">Hi, I'm <a href="https://michael-2026-portfolio.vercel.app" style="color: #0A66C2; text-decoration: none;"><b>Michael Krisna Cahyadi</b></a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://michael-2026-portfolio.vercel.app" target="_blank" style="color: #0A66C2; text-decoration: none;"><b>Michael Krisna Cahyadi</b></a> 👋</h1>
 
 <p align="justify">
 A senior frontend engineer and fullstack Web3 developer based in Indonesia, currently building at <strong>Pixel8Labs</strong>. Over the past 3+ years, I've shipped 17+ production projects ranging from pixel-perfect interfaces to DeFi launchpad protocols and AI-powered companions. I lead frontend engineering teams, craft high-performance UI systems with React and Next.js, architect smart contract integrations, and obsess over the micro-interactions that make products feel premium. My work spans the full stack, from Solidity and Anchor programs to responsive dashboards with real-time data streaming.
