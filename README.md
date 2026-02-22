@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/krisnamic/krisnamic/main/profile.gif" alt="👋 Hi there! I'm Michael" title="👋 Hi there! I'm Michael"/>
+<img src="https://raw.githubusercontent.com/krisnamic/krisnamic/main/banner.png" alt="Krisnamic Banner" title="Krisnamic Banner"/>
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/michael-krisna-cahyadi">
@@ -20,13 +20,13 @@
 </div>
 <p></p>
 
-<h1>Hi, I'm <a href="https://michael-2026-portfolio.vercel.app" style="color: #0A66C2; text-decoration: none;"><b>Michael Krisna Cahyadi</b></a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://michael-2026-portfolio.vercel.app" style="color: #0A66C2; text-decoration: none;"><b>Michael Krisna Cahyadi</b></a> 👋</h1>
 
 <p align="justify">
 A senior frontend engineer and fullstack Web3 developer based in Indonesia, currently building at <strong>Pixel8Labs</strong>. Over the past 3+ years, I've shipped 17+ production projects ranging from pixel-perfect interfaces to DeFi launchpad protocols and AI-powered companions. I lead frontend engineering teams, craft high-performance UI systems with React and Next.js, architect smart contract integrations, and obsess over the micro-interactions that make products feel premium. My work spans the full stack, from Solidity and Anchor programs to responsive dashboards with real-time data streaming.
 </p>
 
-## My favorite tools and technologies ⚙️
+## My favorite tools and technologies 💻
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -57,7 +57,7 @@ A senior frontend engineer and fullstack Web3 developer based in Indonesia, curr
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/krisnamic/krisnamic/main/github.png" width="65" height="65" alt="GitHub" />
+        <img src="https://raw.githubusercontent.com/krisnamic/krisnamic/main/github.png" width="45" height="45" alt="GitHub" />
       <br>Github
     </td>
     <td align="center" width="96">
