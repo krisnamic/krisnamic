@@ -30,6 +30,8 @@
 A senior frontend engineer and fullstack Web3 developer based in Indonesia, currently building at <strong>Pixel8Labs</strong>. Over the past 3+ years, I've shipped 17+ production projects ranging from pixel-perfect interfaces to DeFi launchpad protocols and AI-powered companions. I lead frontend engineering teams, craft high-performance UI systems with React and Next.js, architect smart contract integrations, and obsess over the micro-interactions that make products feel premium. My work spans the full stack, from Solidity and Anchor programs to responsive dashboards with real-time data streaming.
 </p>
 
+<p>My Portfolio: <a href="https://michael-2026-portfolio.vercel.app" target="_blank" style="color: #0A66C2; text-decoration: none;"><b>https://michael-2026-portfolio.vercel.app</b></a></p>
+
 ## My favorite tools and technologies 💻
 
 > Tools and technologies that I have worked with and am interested in
